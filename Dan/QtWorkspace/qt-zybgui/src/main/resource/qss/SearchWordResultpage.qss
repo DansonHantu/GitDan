@@ -1,0 +1,75 @@
+QLabel {
+  margin: 0;
+  padding: 0;
+  font-size: 28px;
+  font-family: "WenQuanYiMicroHeiMono";
+  line-height: 44px;
+}
+QPushButton#btnComplete_ {
+  margin: 0;
+  padding: 0;
+  color: #FFFFFF;
+  text-align: center;
+  font-family: "WenQuanYiMicroHeiMono";
+  background-color: #12CFA7;
+  font-size: 28px;
+  line-height: 64px;
+  border-radius: 35px;
+}
+QLabel#labelTotle_ {
+  color: #333333;
+}
+QLabel#labelRight_ {
+  color: #2BC75A;
+}
+QLabel#labelRightNum_ {
+  color: #2BC75A;
+}
+QLabel#labelWrong_ {
+  color: #FF7256;
+}
+QLabel#labelWrongNum_ {
+  color: #FF7256;
+}
+QLabel#labelReady_ {
+  color: #EECB36;
+}
+QLabel#labelReadyNum_ {
+  color: #EECB36;
+}
+QLabel#moreResult_ {
+  font-size: 32px;
+  color: #12CFA7;
+  line-height: 48px;
+}
+QLabel#title_ {
+  font-size: 40px;
+  font-weight: bold;
+  color: #333333;
+  line-height: 60px;
+}
+QLabel#text_ {
+  font-size: 36px;
+  color: #333333;
+  line-height: 54px;
+}
+
+QPushButton#btnCollect_ {
+  width: 48px;
+  height: 48px;
+  background-size: 48px 48px;
+  background-image: url(':/resource/picture/homeworkCorrectingResultPage/result_icon_collect.png');
+}
+QPushButton#btnCollected_ {
+  width: 48px;
+  height: 48px;
+  background-size: 48px 48px;
+  background-image: url(':/resource/picture/homeworkCorrectingResultPage/result_icon_collected.png');
+}
+QPushButton#btnAdd2Book_ {
+  width: 424px;
+  height: 88px;
+  font-size: 36px;
+  line-height: 88px;
+  border-radius: 44px;
+}
